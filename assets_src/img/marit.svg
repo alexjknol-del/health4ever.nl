@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Illustratie van Marit Bakker, hoofdredacteur">
+  <defs>
+    <clipPath id="c"><circle cx="120" cy="120" r="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="240" height="240" fill="#dcefe6"/>
+    <circle cx="120" cy="120" r="120" fill="#e7f3ee"/>
+    <!-- shoulders / top -->
+    <path d="M40 240c0-40 34-64 80-64s80 24 80 64z" fill="#2f8f6b"/>
+    <path d="M62 240c0-26 26-42 58-42s58 16 58 42z" fill="#3aa87e"/>
+    <!-- neck -->
+    <rect x="104" y="150" width="32" height="34" rx="16" fill="#e8b48f"/>
+    <!-- hair back -->
+    <path d="M64 118c0-40 25-64 56-64s56 24 56 64c0 22-6 40-6 40l-14-10c4-14 4-30-2-40-8 8-40 14-64 6-4 12-4 26 0 36l-14 12s-12-20-12-44z" fill="#6b4a34"/>
+    <!-- face -->
+    <path d="M78 116c0-30 19-48 42-48s42 18 42 48-19 54-42 54-42-24-42-54z" fill="#f0c19c"/>
+    <!-- ears -->
+    <circle cx="80" cy="128" r="7" fill="#f0c19c"/>
+    <circle cx="160" cy="128" r="7" fill="#f0c19c"/>
+    <!-- hair front / fringe -->
+    <path d="M76 112c2-30 22-48 44-48s42 16 44 46c-10-16-24-24-24-24s-2 12-16 16-30 2-38-2c0 0-8 4-10 12z" fill="#7a5540"/>
+    <path d="M74 116c-2-8-1-18 3-24 0 22 4 40 4 40l-3-2c-2-4-3-9-4-14z" fill="#7a5540"/>
+    <!-- brows -->
+    <path d="M96 112c6-4 14-4 19 0" fill="none" stroke="#6b4a34" stroke-width="3" stroke-linecap="round"/>
+    <path d="M125 112c5-4 13-4 19 0" fill="none" stroke="#6b4a34" stroke-width="3" stroke-linecap="round"/>
+    <!-- eyes -->
+    <circle cx="105" cy="124" r="4.4" fill="#40342b"/>
+    <circle cx="135" cy="124" r="4.4" fill="#40342b"/>
+    <circle cx="106.3" cy="122.6" r="1.3" fill="#fff"/>
+    <circle cx="136.3" cy="122.6" r="1.3" fill="#fff"/>
+    <!-- nose -->
+    <path d="M120 126c-2 6-4 10-1 13" fill="none" stroke="#d69f76" stroke-width="3" stroke-linecap="round"/>
+    <!-- smile -->
+    <path d="M107 146c8 8 18 8 26 0" fill="none" stroke="#c26a5a" stroke-width="3.4" stroke-linecap="round"/>
+    <!-- cheeks -->
+    <circle cx="97" cy="140" r="7" fill="#eea987" opacity=".55"/>
+    <circle cx="143" cy="140" r="7" fill="#eea987" opacity=".55"/>
+  </g>
+</svg>
