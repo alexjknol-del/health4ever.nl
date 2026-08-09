@@ -31,7 +31,7 @@ CATS = {
     "leefstijl":    {"name": "Leefstijl",           "bg": "#eef3ea", "fg": "#7a9a5b", "ink": "#5c7742"},
 }
 
-NAV = [("Home", "/"), ("Over", "/over/"), ("Nieuws", "/nieuws/"), ("Contact", "/contact/")]
+NAV = [("Home", "/"), ("Over", "/over/"), ("Nieuws", "/nieuws/"), ("Partners", "/partners/"), ("Contact", "/contact/")]
 
 # category line-icons (simple, on transparent, drawn white)
 ICONS = {
@@ -303,6 +303,26 @@ def render_over():
 '''
     return page("Over Health4Ever", "Health4Ever is een onafhankelijke gezondheidsgids die betrouwbare, begrijpelijke informatie over voeding, beweging en welzijn samenbrengt.", body, active="/over/", path="/over/")
 
+
+def render_partners():
+    body = f'''
+<section class="cat-hero"><div class="wrap narrow center">
+<p class="eyebrow">Partners</p>
+<h1 class="mt0">Partners en bronnen</h1>
+<p class="lead-muted">Health4Ever verwijst hier naar externe partners en bronnen.</p>
+</div></section>
+<section><div class="wrap">
+<div class="grid grid-2">
+<div class="card"><h3>Tatanka</h3><p>Tatanka is een Nederlandse smartshop met paddo growkits en smartshopproducten, met uitleg per soort en een overzicht van het aanbod.</p><p style="margin-top:12px"><a href="https://www.tatanka.nl/nl/ecuadorian-magic-mushroom-paddo-grow-kit/" target="_blank" rel="noopener">Ecuadorian magic mushroom growkit</a></p></div>
+<div class="card"><h3>Smartific</h3><p>Smartific is een Nederlandse smartshop met magic truffels, growkits en smartshopproducten, inclusief productinformatie per artikel.</p><p style="margin-top:12px"><a href="https://smartific.nl/indian-elements/" target="_blank" rel="noopener">Indian Elements</a></p></div>
+<div class="card"><h3>The Headshop</h3><p>The Headshop is een Nederlandse headshop met kratom en smartshopproducten, met een uitgebreid overzicht per soort en sterkte.</p><p style="margin-top:12px"><a href="https://www.headshop.nl/nl/" target="_blank" rel="noopener">The Headshop</a></p></div>
+<div class="card"><h3>Paddo.shop</h3><p>Paddo.shop is een Nederlandse webshop gespecialiseerd in paddo growkits, met uitleg per kweekset en kweekinstructies.</p><p style="margin-top:12px"><a href="https://www.paddo.shop/hawaiian-copelandia-paddo-growkit/" target="_blank" rel="noopener">Hawaiian Copelandia Paddo</a></p></div>
+<div class="card"><h3>Magictruffels.shop</h3><p>Magictruffels.shop is een Nederlandse webshop voor magic truffels, met een overzicht per soort en de werking ervan.</p><p style="margin-top:12px"><a href="https://www.magictruffels.shop/" target="_blank" rel="noopener">high hawaiians truffels</a></p></div>
+</div>
+</div></section>
+'''
+    return page("Partners", "Partners en bronnen waar Health4Ever naar verwijst.", body, active="/partners/", path="/partners/")
+
 def render_contact():
     body = f'''
 <section class="cat-hero"><div class="wrap narrow center">
@@ -465,7 +485,7 @@ NOTFOUND_BODY = """
 """
 
 def build_sitemap():
-    urls = ["/", "/over/", "/nieuws/", "/contact/", "/privacybeleid/", "/cookiebeleid/", "/disclaimer/"]
+    urls = ["/", "/over/", "/nieuws/", "/partners/", "/contact/", "/privacybeleid/", "/cookiebeleid/", "/disclaimer/"]
     urls += [f"/nieuws/{k}/" for k in CATS]
     dated = {}
     for a in ARTICLES:
@@ -490,6 +510,7 @@ def main():
     write("/", render_home())
     write("/over/", render_over())
     write("/contact/", render_contact())
+    write("/partners/", render_partners())
     write("/nieuws/", render_nieuws_index())
     for k in CATS:
         write(f"/nieuws/{k}/", render_nieuws_index(k))
