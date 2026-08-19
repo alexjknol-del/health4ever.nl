@@ -6,6 +6,37 @@ D = _dt.date
 
 ARTICLES = [
 {
+"slug":"begeleid-sporten-kleine-groep",
+"title":"Begeleid sporten in een kleine groep: waarom het vaker volgehouden wordt",
+"cat":"beweging",
+"date":D(2026,8,19),
+"mins":5,
+"excerpt":"Een abonnement bij een grote sportschool wordt gemiddeld binnen enkele maanden niet meer gebruikt. Bij begeleiding in een kleine groep ligt dat anders.",
+"body":"""
+<p>Het bekendste cijfer in de fitnessbranche is dat van de ongebruikte abonnementen. Een groot deel van de leden komt na de eerste maanden nauwelijks nog, terwijl de motivatie bij het afsluiten wel degelijk aanwezig was.</p>
+<h2>Waar het misgaat bij zelfstandig trainen</h2>
+<p>Wie zonder begeleiding begint, loopt tegen drie dingen aan. De opbouw gaat te snel, waardoor de eerste weken vooral spierpijn opleveren. De oefeningen worden technisch onzuiver uitgevoerd, waardoor het resultaat uitblijft. En er is geen moment waarop iemand het opmerkt wanneer de bezoeken wegvallen.</p>
+<p>Dat laatste weegt in de praktijk het zwaarst. Een gemiste week in een grote zaal valt bij niemand op; in een groep van zes mensen wel.</p>
+<h2>Wat een kleine groep toevoegt</h2>
+<ul>
+  <li>Een vast tijdstip, waardoor het in de agenda staat en niet afhangt van de dagvorm.</li>
+  <li>Correctie op techniek, wat blessures voorkomt en het effect vergroot.</li>
+  <li>Opbouw die per persoon wordt aangepast in plaats van een standaardschema.</li>
+  <li>Sociale binding, de factor die het vaakst wordt genoemd bij mensen die het jaren volhouden.</li>
+</ul>
+<p>De groepsgrootte is daarbij bepalend. Boven de tien deelnemers verdwijnt de individuele correctie en blijft er in feite een groepsles over. Studios die daarop zijn ingericht, zoals te vinden bij <a href="https://www.inshape-afslankstudio.nl/sportschool-den-bosch/" rel="nofollow">In Shape Afslankstudio</a>, werken doorgaans met aanzienlijk kleinere groepen.</p>
+<h2>Combinatie met voeding</h2>
+<p>Trainen zonder aanpassing van het eetpatroon levert kracht en conditie op en zelden gewichtsverlies. Andersom geldt hetzelfde: een dieet zonder beweging kost naast vet ook spiermassa, en juist die spiermassa bepaalt hoeveel er in rust wordt verbruikt.</p>
+<p>De combinatie van beide is daarom effectiever dan elk onderdeel apart, ook wanneer de trainingsomvang bescheiden blijft. Twee keer per week met begeleiding levert meer op dan vijf keer alleen, mits het maanden achtereen gebeurt. Locaties in de regio staan op <a href="https://www.inshape-afslankstudio.nl/sportschool-helmond/" rel="nofollow">inshape-afslankstudio.nl</a>.</p>
+<h2>Wat te vragen voor het starten</h2>
+<p>Vraag naar de groepsgrootte, naar de opleiding van de begeleiders en naar wat er gebeurt bij ziekte of vakantie. Een gemiste periode die niet in te halen is, is voor veel mensen het moment waarop het abonnement stilzwijgend eindigt.</p>
+<p>Vraag daarnaast of er tussentijds wordt gemeten en waarop. Alleen het gewicht is een smalle maatstaf; omtrekmaten en de ontwikkeling van kracht geven samen een eerlijker beeld van wat er in drie maanden is veranderd, en dat beeld houdt mensen aan boord op momenten dat de weegschaal even niets doet.</p>
+<h2>Volhouden na het eerste doel</h2>
+<p>Zodra het oorspronkelijke doel is bereikt, valt bij veel mensen de structuur weg. Dat is het moment waarop de terugval begint, en niet zozeer bij een enkele overgeslagen training. Een nieuw doel formuleren voordat het oude bereikt is, voorkomt dat gat.</p>
+<p>Dat doel hoeft niet groot te zijn. Een aantal trainingen per maand aanhouden, een oefening met meer gewicht kunnen uitvoeren of een vaste omtrekmaat vasthouden werkt in de praktijk beter dan een tweede afvaldoel, omdat het meetbaar blijft zonder afhankelijk te zijn van de weegschaal.</p>
+""",
+},
+{
 "slug":"haptotherapie-leren-voelen",
 "title":"Haptotherapie: leren voelen wat het lichaam vertelt",
 "cat":"mentaal",
