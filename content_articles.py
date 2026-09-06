@@ -6,6 +6,36 @@ D = _dt.date
 
 ARTICLES = [
 {
+"slug":"microdosering-wat-de-term-betekent",
+"title":"Microdosering: wat de term betekent en wat er in Nederland is toegestaan",
+"cat":"leefstijl",
+"date":D(2026,9,6),
+"mins":6,
+"excerpt":"Rond microdosering circuleren veel verhalen en weinig afbakening. Wat de term feitelijk aanduidt, waarom truffels in Nederland een andere status hebben dan paddenstoelen, en welke regels er gelden voor aanbieders.",
+"body":"""
+<p>Microdosering is een term die de laatste jaren regelmatig opduikt in gesprekken over leefstijl, zonder dat altijd duidelijk is waar die precies op slaat. Dit artikel zet de feitelijke kant op een rij: wat het woord aanduidt, hoe de juridische situatie in Nederland eruitziet en welke regels gelden voor wie deze producten verkoopt. Uitspraken over werking of effect blijven hier buiten beschouwing, omdat daarover in Nederland geen claims mogen worden gedaan.</p>
+<h2>Waar de term vandaan komt</h2>
+<p>Microdosering verwijst naar het innemen van een fractie van wat als een gebruikelijke dosis geldt. In de literatuur wordt doorgaans gesproken over ongeveer een tiende tot een twintigste daarvan. Het onderscheid met regulier gebruik is daarmee geen gradueel verschil in beleving maar een afgesproken verhouding in hoeveelheid.</p>
+<p>De term is niet gestandaardiseerd. Er bestaat geen wettelijke definitie en geen genormeerde hoeveelheid, wat betekent dat de aanduiding per aanbieder en per publicatie anders ingevuld kan worden. Wie de term tegenkomt, kan er dus niet zonder meer van uitgaan dat er hetzelfde mee bedoeld wordt.</p>
+<h2>Truffels en paddenstoelen zijn juridisch niet hetzelfde</h2>
+<p>Het meest voorkomende misverstand gaat over de status van beide producten. Sinds 2008 staan paddenstoelen die psilocybine bevatten in Nederland op lijst II van de Opiumwet. Sclerotia, in de handel bekend als truffels, vielen buiten die aanwijzing en zijn daardoor legaal verkrijgbaar gebleven.</p>
+<p>Botanisch gaat het om verschillende delen van dezelfde organismen: de sclerotium is een ondergrondse verdikking van het schimmelweefsel, de paddenstoel het bovengrondse vruchtlichaam. Juridisch worden ze in Nederland verschillend behandeld, en die scheiding verklaart waarom het ene product in smartshops ligt en het andere niet.</p>
+<p>Buiten Nederland ligt dat opnieuw anders. De regelgeving verschilt per land, ook binnen de Europese Unie, waardoor meenemen over de grens in veel gevallen niet is toegestaan. Wie op reis gaat, heeft daarmee te maken met het recht van het land van bestemming en van elk doorreisland.</p>
+<h2>Wat een aanbieder wel en niet mag zeggen</h2>
+<p>Voor de verkoop gelden dezelfde regels als voor andere consumentenproducten, aangevuld met het verbod op medische claims. Een aanbieder mag beschrijven wat een product is, hoe het bewaard wordt en wat de herkomst is. Uitspraken die suggereren dat het een aandoening voorkomt, behandelt of geneest, zijn niet toegestaan.</p>
+<p>Dat verklaart de opzet van webshops in dit segment. Wie bijvoorbeeld de uitleg over <a href="https://www.cosmictruffles.nl/microdosering-truffels/" rel="noopener" target="_blank">Cosmic Truffles</a> bekijkt, ziet productinformatie, bewaaradvies en een aparte disclaimerpagina, en geen beweringen over resultaten. Die terughoudendheid is geen stijlkeuze maar een wettelijke verplichting.</p>
+<h2>Waar de informatie doorgaans tekortschiet</h2>
+<p>Drie punten komen in publieksberichtgeving zelden aan bod. Het eerste is de variatie in sterkte: de hoeveelheid psilocybine verschilt per soort en per partij, waardoor een hoeveelheid in grammen weinig zegt zolang de soort niet vaststaat.</p>
+<p>Het tweede is de combinatie met medicatie. Die vraag hoort bij een arts of apotheker en niet bij een verkooppunt, zeker wanneer er al middelen worden gebruikt.</p>
+<p>Het derde is de onderzoeksstand. Er loopt wetenschappelijk onderzoek naar deze stoffen, maar het aantal gecontroleerde studies naar lage doseringen is beperkt en de uitkomsten lopen uiteen. Wie leest dat iets is aangetoond, doet er goed aan te achterhalen om welk onderzoek het gaat, hoeveel deelnemers er waren en of er een controlegroep was.</p>
+<h2>Waar betrouwbare informatie te vinden is</h2>
+<p>Voor de juridische stand van zaken is de Opiumwet zelf de bron, met de bijbehorende lijsten. Voor de stand van het onderzoek zijn universitaire publicaties bruikbaarder dan samenvattingen in de media, die zelden de beperkingen van een studie vermelden.</p>
+<p>Aan de kant van de handel geldt dat een aanbieder herleidbaar hoort te zijn: een adres, een inschrijving bij de Kamer van Koophandel, leesbare voorwaarden en een duidelijke retourregeling. Hoe een verkooppunt de eigen uitleg inricht, is na te lopen op pagina's als die van <a href="https://www.cosmictruffles.nl/microdosing/" rel="noopener" target="_blank">cosmictruffles.nl</a>.</p>
+<h2>Samengevat</h2>
+<p>Microdosering is een aanduiding voor een verhouding, geen omschreven product en geen erkende methode. In Nederland is de verkoop van sclerotia toegestaan en die van psilocybinehoudende paddenstoelen niet. Aanbieders mogen geen claims doen over gezondheid, en de wetenschappelijke onderbouwing van lage doseringen is op dit moment beperkt. Wie medicatie gebruikt of twijfelt, legt de vraag voor aan een arts.</p>
+"""
+},
+{
 "slug":"begeleid-sporten-kleine-groep",
 "title":"Begeleid sporten in een kleine groep: waarom het vaker volgehouden wordt",
 "cat":"beweging",
