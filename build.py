@@ -323,6 +323,7 @@ def render_partners():
 <div class="card"><h3>Brahman Menor</h3><p>Brahman Menor schrijft over spiritualiteit en bewustwording, met achtergrondartikelen over onder meer levensenergie en innerlijke rust.</p><p style="margin-top:12px"><a href="https://brahmanmenor.com/spiritueel/prana/" target="_blank" rel="noopener">Prana</a></p></div>
 <div class="card"><h3>Mobiliteitexpert</h3><p>Mobiliteitexpert levert hulpmiddelen voor dagelijks bewegen, van rollators en rolstoelen tot scootmobielen en kleine hulpmiddelen in huis.</p><p style="margin-top:12px"><a href="https://mobiliteitexpert.nl" target="_blank" rel="noopener">Mobiliteitexpert</a></p></div>
 <div class="card"><h3>Zorgbroeder</h3><p>Zorgbroeder levert hulpmiddelen voor buiten de deur: driewielfietsen, duofietsen, scootmobielen en rollators, met advies, halen en brengen, reparatie en onderhoud.</p><p style="margin-top:12px"><a href="https://zorgbroeder.nl/scootmobielen" target="_blank" rel="noopener">Scootmobiel kopen</a></p></div>
+<div class="card"><h3>JustPadel</h3><p>JustPadel is een webshop voor padel, met rackets, ballen, schoenen en kleding van merken als Adidas, Bullpadel en Siux.</p><p style="margin-top:12px"><a href="https://justpadel.com/collections/padelrackets" target="_blank" rel="noopener">kwalitatieve padelracket</a></p></div>
 </div>
 </div></section>
 '''
