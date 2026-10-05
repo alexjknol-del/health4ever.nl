@@ -6,6 +6,54 @@ D = _dt.date
 
 ARTICLES = [
 {
+"slug":"bekkenbodem-ontspannen-en-aanspannen",
+  "title":"Bekkenbodem: waarom ontspannen net zo belangrijk is als aanspannen",
+  "cat":"beweging",
+  "date":D(2026,10,2),
+  "mins":5,
+  "excerpt":"Bekkenbodemtraining gaat niet alleen over knijpen. Wie leert loslaten, geeft deze spiergroep de balans die hij nodig heeft.",
+  "body":"""
+  <p>De bekkenbodem krijgt meestal pas aandacht als er iets niet goed gaat. Veel mensen denken bij bekkenbodemtraining dan vooral aan aanspannen. Toch is het vermogen om de spieren weer los te laten minstens zo belangrijk. Een bekkenbodem die goed werkt, kan allebei.</p>
+  <h2>Wat de bekkenbodem doet</h2>
+  <p>De bekkenbodem is een laag spieren onderin het bekken. Deze spieren lopen als een soort hangmat van het schaambeen naar het stuitje. Ze dragen de blaas, de baarmoeder en de darmen, en helpen bij het ophouden van urine, ontlasting en windjes.</p>
+<p>Daarnaast werkt de bekkenbodem samen met de ademhaling, de buikspieren en de rug. Ook bij intimiteit speelt deze spiergroep een rol. Net als andere spieren werkt de bekkenbodem het best als hij soepel kan wisselen tussen aanspannen en ontspannen.</p>
+  <h2>Waarom ontspannen net zo belangrijk is als aanspannen</h2>
+  <p>Een spier die steeds aangespannen staat, raakt vermoeid en wordt stijf. Dat geldt ook voor de bekkenbodem. Stress, veel zitten, plassen lang ophouden of eerdere pijnklachten kunnen ervoor zorgen dat de bekkenbodem onbewust gespannen blijft.</p>
+<p>Wie in die situatie alleen extra knijpoefeningen doet, maakt de klachten soms groter in plaats van kleiner. Een gezonde bekkenbodem kan op het juiste moment aanspannen, bijvoorbeeld bij hoesten of tillen, en daarna weer helemaal loslaten.</p>
+<h2>Signalen van een te gespannen bekkenbodem</h2>
+<p>Een overactieve bekkenbodem geeft niet altijd duidelijke klachten. Signalen die erop kunnen wijzen zijn:</p>
+  <ul>
+  <li>moeite om het plassen op gang te krijgen, of het gevoel dat de blaas niet helemaal leeg is</li>
+  <li>vaak aandrang om te plassen</li>
+<li>verstopping of moeite met de ontlasting</li>
+<li>pijn bij gemeenschap of bij het inbrengen van een tampon</li>
+  <li>zeurende pijn in de onderrug, de liezen of het bekken</li>
+</ul>
+<p>Deze klachten kunnen ook andere oorzaken hebben. Het is daarom verstandig om ze te laten beoordelen voordat er gericht geoefend wordt.</p>
+  <h2>Signalen van een te zwakke bekkenbodem</h2>
+  <p>Bij een zwakke bekkenbodem houden de spieren minder goed stand bij druk van bovenaf. Bekende signalen zijn:</p>
+  <ul>
+  <li>urineverlies bij hoesten, niezen, lachen of springen</li>
+<li>moeite met het ophouden van windjes</li>
+  <li>een zwaar of drukkend gevoel in de vagina</li>
+  <li>minder gevoel bij intimiteit</li>
+  </ul>
+  <p>Een zwakkere bekkenbodem komt vaak voor na een zwangerschap en bevalling, rond de overgang en bij mensen die veel tillen of lang hoesten. Een bekkenbodem kan overigens ook tegelijk te zwak en te gespannen zijn. Dan is eerst leren ontspannen meestal de beste start.</p>
+  <h2>Oefenen zonder hulpmiddel</h2>
+<p>Een goede eerste stap is de ademhaling. Wie op de rug ligt met gebogen knieën en rustig naar de buik ademt, kan merken dat de bekkenbodem bij het inademen iets meezakt en bij het uitademen terugveert. Alleen dat bewust voelen helpt al om de spieren te leren loslaten.</p>
+  <p>Voor het aanspannen geldt: knijp alsof een plas en een windje opgehouden moeten worden, houd dat een paar tellen vast en laat daarna minstens even lang los. Billen, buik en bovenbenen blijven daarbij ontspannen. Oefenen tijdens het plassen wordt afgeraden, omdat dat de blaas in de war kan brengen.</p>
+<p>Een paar minuten per dag werkt beter dan af en toe een lange sessie. Begin en eindig elke oefenreeks met ontspannen. Resultaat vraagt geduld en is vaak pas na enkele weken merkbaar.</p>
+  <h2>Oefenen met een hulpmiddel</h2>
+  <p>Niet iedereen voelt meteen welke spieren aan het werk zijn. Een hulpmiddel kan dan helpen om gerichter te oefenen. Webshop <a href="https://inwonderstate.com/nl" target="_blank" rel="noopener">inWonderstate</a>, opgezet door vrouwen en gericht op de intieme gezondheid van vrouwen, besteedt naast aanspannen ook aandacht aan het ontspannen van de bekkenbodem.</p>
+  <p>De vormen lopen flink uiteen, van eenvoudige kegelballetjes die met lichte weerstand werken tot trainers die via een app laten zien hoe sterk er wordt aangespannen en of de spieren daarna weer loslaten. Het aanbod bekkenbodemtrainers op <a href="https://inwonderstate.com/nl/collections/bekkendbodem-trainers-kegel" target="_blank" rel="noopener">inwonderstate.com</a> geeft een goed beeld van die verschillen. Vooral die terugkoppeling over het loslaten is nuttig voor wie geneigd is om te veel te knijpen.</p>
+  <p>Bij gebruik van een hulpmiddel is het verstandig om rustig te beginnen met korte sessies, het hulpmiddel goed schoon te houden en zo nodig een glijmiddel op waterbasis te gebruiken. Pijn is een teken om te stoppen.</p>
+  <h2>Hulp bij aanhoudende klachten</h2>
+  <p>Blijven klachten bestaan, of is niet duidelijk of de bekkenbodem te gespannen of te zwak is? Dan is de huisarts een goed eerste aanspreekpunt. Een bekkenfysiotherapeut kan onderzoeken hoe de spieren werken en een oefenplan op maat maken. Voor een bekkenfysiotherapeut is in Nederland geen verwijzing nodig, al vergoedt de zorgverzekering dit niet altijd.</p>
+<h2>Balans als uitgangspunt</h2>
+<p>Een sterke bekkenbodem is niet hetzelfde als een gezonde bekkenbodem. Het gaat om balans: kunnen aanspannen wanneer dat nodig is en daarna weer volledig loslaten. Wie beide oefent, rustig opbouwt en bij twijfel hulp vraagt, geeft deze vaak vergeten spiergroep de aandacht die hij verdient.</p>
+  """
+  },
+{
 "slug":"persoonlijke-vitamine-test-vitaliteit",
 "title":'Startpunt voor vitaliteit door een persoonlijke vitamine test',
 "cat":"voeding",
@@ -88,6 +136,42 @@ ARTICLES = [
 <p>Dat doel hoeft niet groot te zijn. Een aantal trainingen per maand aanhouden, een oefening met meer gewicht kunnen uitvoeren of een vaste omtrekmaat vasthouden werkt in de praktijk beter dan een tweede afvaldoel, omdat het meetbaar blijft zonder afhankelijk te zijn van de weegschaal.</p>
 """,
 },
+{
+"slug":"permanente-make-up-voorbereiding-herstel",
+  "title":"Goed voorbereid op permanente make-up: intake, voorzorg en herstel",
+  "cat":"leefstijl",
+  "date":D(2026,7,28),
+  "mins":5,
+  "excerpt":"Permanente make-up is een kleine ingreep in de huid. Hoe het lichaam daarop reageert, hangt voor een deel af van wat er in de dagen ervoor en de weken erna gebeurt.",
+  "body":"""
+  <p>Permanente make-up, kortweg PMU, wordt vaak gezien als een cosmetische keuze. Voor de huid is het vooral een kleine beschadiging die moet herstellen. Pigment wordt met een fijne naald in de bovenste huidlagen gebracht, en het lichaam reageert daarop zoals op elk klein wondje: met een lichte ontsteking, korstvorming en daarna nieuwe huid. Hoe soepel dat verloopt, hangt voor een deel af van de voorbereiding.</p>
+
+  <h2>Het intakegesprek als eerste stap</h2>
+<p>Een zorgvuldige behandeling begint niet met de naald maar met een gesprek. Daarin komen de wensen aan bod, maar ook het huidtype, eerdere behandelingen in het gezicht en het gebruik van medicijnen. Bij <a href="https://www.debrowerij.com/" target="_blank" rel="noopener">De Browerij</a>, een studio voor permanente make-up in Rotterdam, is dat gesprek vrijblijvend en wordt de vorm vooraf voorgetekend. Zo is er ruimte om te kijken of een behandeling op dat moment verstandig is, voordat er iets vastligt.</p>
+  <p>Dat gesprek is ook het moment om eerlijk te zijn over gezondheid. Sommige medicijnen en kuren maken een behandeling tijdelijk onverstandig, bijvoorbeeld antibiotica, bloedverdunners, migrainemedicatie of Roaccutane. Ook recente botox in het te behandelen gebied is een reden om te wachten.</p>
+
+  <h2>Wat het lichaam vooraf helpt</h2>
+<p>De dagen voor een behandeling bepalen mee hoe de huid reageert. Stoffen die het bloed dunner maken of de huid gevoeliger, zorgen voor meer bloeding tijdens de behandeling, en dat gaat ten koste van hoe het pigment zich hecht. De voorzorgsregels van studio's zijn daarop gebaseerd. Voor wenkbrauwen gelden doorgaans de volgende richtlijnen:</p>
+  <ul>
+  <li>Geen alcohol in de 24 uur en geen cafeïne in de 12 uur voor de behandeling.</li>
+  <li>In de 48 uur ervoor geen aspirine, ibuprofen, vitamine E of visolie. Paracetamol mag wel.</li>
+<li>Zes weken van tevoren stoppen met retinol, zuren en peelings rond de wenkbrauwen.</li>
+  <li>Twee maanden geen laser of microdermabrasie in het gebied.</li>
+<li>Drie dagen voor de behandeling de zon vermijden.</li>
+  <li>Twee tot drie dagen ervoor niet waxen of epileren.</li>
+</ul>
+  <p>Een praktische tip die vaak vergeten wordt: het haar op de dag zelf vooraf wassen. De behandelde huid mag in de eerste periode niet nat worden, en dat maakt haren wassen een stuk lastiger.</p>
+
+  <div class="callout"><p><strong>Vitamines met een keerzijde.</strong> Vitamine E en visolie worden vaak als gezond gezien, en dat zijn ze in veel situaties ook. Rond een behandeling waarbij de huid wordt geopend, is hun bloedverdunnende werking juist ongewenst. Een paar dagen pauze is dan voldoende.</p></div>
+
+  <h2>Herstel in de weken erna</h2>
+<p>Direct na de behandeling is de kleur donkerder en scherper dan het eindresultaat. In de eerste week vormen zich dunne korstjes, die vanzelf loslaten. Ze eraf halen of eraan krabben trekt pigment mee en kan voor kale plekjes zorgen. Na een paar weken is de bovenste huidlaag hersteld, maar de kleur zet zich daaronder nog verder. Pas na ongeveer zes weken is te zien hoe het resultaat zich echt aftekent, en daarom volgt rond die tijd meestal een nabehandeling.</p>
+<p>Zon is in die periode de grootste vijand. Uv-licht vertraagt het herstel en kan pigment sneller laten vervagen of verkleuren. Zes weken na de behandeling de zon vermijden, of de huid goed afschermen met een pet of zonnebril, houdt het resultaat stabieler. Voor eyeliner en lippen gelden deels andere termijnen dan voor wenkbrauwen. De studio werkt daarom per behandeling met eigen richtlijnen voor voorzorg en nazorg, zoals uitgewerkt op <a href="https://www.debrowerij.com/voorzorg-nazorg/" target="_blank" rel="noopener">debrowerij.com</a>.</p>
+
+  <h2>De basis voor herstel</h2>
+  <p>Los van de specifieke regels speelt de algemene conditie mee. Een uitgerust lichaam met een regelmatig ritme herstelt makkelijker dan een lichaam dat al onder druk staat. Voldoende slaap, genoeg drinken en een gevarieerd eetpatroon zijn geen garantie, maar wel de omstandigheden waarin de huid het werk kan doen. Wie twijfelt over medicijngebruik of een huidaandoening, legt die vraag vooraf voor aan de huisarts.</p>
+  """
+  },
 {
 "slug":"haptotherapie-leren-voelen",
 "title":"Haptotherapie: leren voelen wat het lichaam vertelt",
