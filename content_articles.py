@@ -510,4 +510,24 @@ ARTICLES = [
 <p>Leven met chronische pijn is zwaar, maar niet uitzichtloos. Veel mensen leren hun klachten hanteren en hun leven weer opbouwen door verstandig te bewegen, grenzen te leren voelen en professionele begeleiding te zoeken. De weg is er een van geduld en kleine stappen, maar die stappen tellen op.</p>
 """
 },
+{
+"slug":"belang-van-seksuele-voorlichting-bij-kinderen",
+"title":"Het belang van seksuele voorlichting bij kinderen",
+"cat":"leefstijl",
+"date":D(2026,10,16),
+"mins":2,
+"excerpt":"Waarom open en tijdige seksuele voorlichting kinderen helpt om hun lichaam te begrijpen, grenzen te herkennen en veilig op te groeien.",
+"body":"""
+<p>Praten over seksualiteit met kinderen voelt voor veel ouders ongemakkelijk. Toch is het een cruciaal onderdeel van hun ontwikkeling. Kinderen die op jonge leeftijd passende informatie krijgen over hun lichaam en relaties, zijn beter beschermd tegen grensoverschrijdend gedrag. Ze ontwikkelen een gezond zelfbeeld en leren grenzen stellen.</p>
+<h2>Op welke leeftijd kun je beginnen</h2>
+<p>Seksuele voorlichting start veel eerder dan veel mensen denken. Al rond een jaar of drie beginnen kinderen vragen te stellen over hun lichaam. &quot;Waar komen baby&#x27;s vandaan?&quot; of &quot;Waarom ziet mijn lichaam er anders uit dan dat van mijn zusje?&quot; zijn typische voorbeelden. Dit zijn ideale momenten om op een natuurlijke manier informatie te geven. Korte, eerlijke antwoorden die passen bij hun ontwikkelingsfase zijn het meest effectief.</p>
+<p>Voor <a target="_blank" rel="noopener" href="https://www.nomibox.nl/">seksuele voorlichting voor kinderen</a> geldt: begin simpel en bouw langzaam op. Peuters hebben genoeg aan de juiste namen voor lichaamsdelen. Kleuters kunnen meer begrijpen over zwangerschap en geboorte. Kinderen in de basisschoolleeftijd zijn toe aan informatie over puberteit, gevoelens en respect voor grenzen.</p>
+<h2>Waarom voorlichting bescherming biedt</h2>
+<p>Kinderen die weten hoe hun lichaam heet en dat bepaalde lichaamsdelen privé zijn, kunnen misbruik eerder herkennen en bespreekbaar maken. Ze leren dat hun lichaam van hen is. Niemand mag hen op een manier aanraken die onprettig voelt. Deze kennis werkt preventief.</p>
+<p>Daarnaast helpt goede voorlichting bij het ontwikkelen van een positief lichaamsbeeld. Kinderen leren dat alle lichamen verschillend zijn en dat dit normaal is. Ze krijgen inzicht in emoties, vriendschap en wat liefde betekent. Dit vormt de basis voor gezonde relaties later in hun leven.</p>
+<h2>Hoe maak je het bespreekbaar</h2>
+<p>Wacht niet op één groot gesprek. Kleine momenten in het dagelijks leven zijn waardevol. Tijdens het aankleden, in de auto of bij het voorlezen kunnen vragen opkomen. Grijp die kansen. Gebruik correcte termen zonder omhaal. Een penis is een penis, geen piemelaar of plasdingetje.</p>
+<p>Hulpmiddelen zoals boeken maken het gesprek vaak makkelijker. Ze bieden houvast en tonen dat het onderwerp normaal is om over te praten. Blijf open staan voor vragen. Geef toe als je iets niet weet en zoek het samen op. Kinderen waarderen eerlijkheid meer dan perfect geformuleerde antwoorden. Je reactie op hun nieuwsgierigheid bepaalt of ze in de toekomst bij jou terugkomen met vragen.</p>
+"""
+},
 ]
